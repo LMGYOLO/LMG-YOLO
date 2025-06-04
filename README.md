@@ -5,7 +5,7 @@ This is an enhanced version of YOLOv11, developed based on the paper "Enhanced Y
 
 ## Architecture Diagram
 You can view the system architecture diagram here: [Architecture Diagram](image/1.jpg)
-
+![Architecture Diagram](image/1.jpg)
 ## Setup
 
 Before you begin, make sure to install the necessary dependencies:
