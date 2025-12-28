@@ -3,7 +3,7 @@
 ## Introduction
 This is an enhanced version of YOLOv11, developed based on the paper "Enhanced YOLOv11 for Button Cell Battery Defect Detection: Leveraging Local Channel Semantic Guidance and Multi-Scale Interaction". It is used for detecting defects in button cell batteries. The model leverages local channel semantic guidance and multi-scale interaction to improve detection performance.
 # Data:
-please download in the url: 
+please download and validate using last.pth in the url: https://pan.baidu.com/s/187ma6WwAuf2upgdDO1583w password: eypy
 
 ## Architecture Diagram
 You can view the system architecture diagram here: 
